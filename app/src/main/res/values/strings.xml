@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Who am I?</string>
+    <string name="yellow_star">Yellow Star</string>
+<!--    <string name="bio_description">Cactus, (family Cactaceae), flowering plant family (order Caryophyllales) with nearly 2,000 species and 139 genera. Cacti are native through most of the length of North and South America, from British Columbia and Alberta southward; the southernmost limit of their range extends far into Chile and Argentina. Mexico has the greatest number and variety of species. The only cacti possibly native to the Old World are members of the genus Rhipsalis, occurring in East Africa, Madagascar, and Sri Lanka. Although a few cactus species inhabit tropical or subtropical areas, most live in and are well adapted to dry regions. See also list of plants in the family Cetaceae.Cactus, (family Cactaceae), flowering plant family (order Caryophyllales) with nearly 2,000 species and 139 genera. Cacti are native through most of the length of North and South America, from British Columbia and Alberta southward; the southernmost limit of their range extends far into Chile and Argentina.</string>-->
+    <string name="bio_description">Hi! I’m Tasneem, a final-year Computer Science student with a growing interest in native Android development. I have a strong passion for learning how to build mobile applications and enjoy working with tools like Kotlin and Android Studio.
+
+As someone just starting out in Android development, I am dedicated to building a solid foundation by understanding the core concepts and practicing through small, hands-on projects. My goal is to steadily grow my skills and become a capable Android developer, contributing to meaningful projects that make a real impact in the future.</string>
+    <string name="nickname_hint">What\'s your nick name?</string>
+    <string name="done">DONE</string>
+
+
+</resources>
